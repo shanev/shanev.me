@@ -8,6 +8,30 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* ---------------------------------------------- /*
+ * Intro
+/* ---------------------------------------------- */
+
+#intro h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 4.5em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1em;
+  text-transform: uppercase;
+}
+
+#intro p {
+  font-size: 2em;
+  display: inline-block;
+  margin-bottom: 5px;
+  padding: 0 8px;
+  letter-spacing: 0.1em;
+  line-height: 3em;
+  text-transform: uppercase;
+}
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
