@@ -187,3 +187,10 @@ p.lead {
 .custom-collapse .navbar-toggle .icon-bar {
 	background: #222;
 }
+
+@media (min-width: 768px) {
+  /* Start the vertical centering */
+  #intro {
+    vertical-align: middle;
+  }
+}
