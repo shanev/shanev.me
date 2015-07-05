@@ -117,3 +117,76 @@ p.lead {
 .btn-google:hover {
     color: #D3492C;
 }
+
+/* ---------------------------------------------- /*
+ * Navigation
+/* ---------------------------------------------- */
+
+.navbar {
+	background: none;
+	border-radius: 0;
+	border: 0;
+	padding: 20px 0;
+	text-transform: uppercase;
+	color: #FFF !important;
+}
+
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus,
+.navbar-custom .nav li.active {
+	background: none;
+	outline: 0;
+	color: #EF4836;
+}
+
+.navbar-custom .navbar-brand {
+	font: 700 18px/1.2 'Montserrat', serif, sans-serif;
+	color: #FFF;
+}
+
+.navbar-custom .navbar-nav > li.active {
+	border-bottom: 3px solid #FFF;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+	background: #FFF;
+}
+
+.navbar-custom .navbar-nav > li > a,
+.navbar-custom .navbar-nav .dropdown-menu > li > a {
+	color: #FFF;
+	font-size: 12px;
+}
+
+.navbar-color,
+.custom-collapse {
+	background: #FFF;
+	box-shadow: 0 0 4px rgba(0, 0, 0, .2);
+	padding: 0;
+}
+
+.navbar-color .navbar-brand,
+.custom-collapse .navbar-brand,
+.navbar-color .navbar-nav > li > a,
+.navbar-color .navbar-nav .dropdown-menu > li > a,
+.custom-collapse .navbar-nav > li > a,
+.custom-collapse .navbar-nav .dropdown-menu > li > a {
+	color: #222;
+}
+
+.navbar-color .navbar-nav > li.active {
+	border-bottom: 3px solid #222;
+}
+
+.custom-collapse .navbar-nav {
+	text-align: left;
+}
+
+.custom-collapse .navbar-nav > li.active {
+	border: 0;
+}
+
+.navbar-color .navbar-toggle .icon-bar,
+.custom-collapse .navbar-toggle .icon-bar {
+	background: #222;
+}
