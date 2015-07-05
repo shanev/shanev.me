@@ -1,8 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
+
 body {
   padding-top: 50px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('../img/01.jpg');
   background-size: cover;
   color: #fff;
+  font-family: 'Roboto', sans-serif;
 }
 
 .starter-template {
@@ -19,7 +22,7 @@ body {
 	border-radius: 0;
 	border: 0;
 	padding: 20px 0;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	color: #FFF !important;
 }
 
@@ -32,7 +35,7 @@ body {
 }
 
 .navbar-custom .navbar-brand {
-	font: 700 18px/1.2 'Montserrat', serif, sans-serif;
+	/*font: 700 18px/1.2 'Montserrat', serif, sans-serif;*/
 	color: #FFF;
 }
 
@@ -47,7 +50,7 @@ body {
 .navbar-custom .navbar-nav > li > a,
 .navbar-custom .navbar-nav .dropdown-menu > li > a {
 	color: #FFF;
-	font-size: 12px;
+	font-size: 18px;
 }
 
 .navbar-color,
