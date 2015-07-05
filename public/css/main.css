@@ -32,15 +32,6 @@ p.lead {
 }
 
 /* ==========================================================================
-   Vegas slider
-   ========================================================================== */
-
-.vegas-overlay {
-    background: transparent url(../img/16.png);
-    opacity: 0.5;
-}
-
-/* ==========================================================================
    Social icons
    ========================================================================== */
 
@@ -127,7 +118,7 @@ p.lead {
 	border-radius: 0;
 	border: 0;
 	padding: 20px 0;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	color: #FFF !important;
 }
 
@@ -155,7 +146,7 @@ p.lead {
 .navbar-custom .navbar-nav > li > a,
 .navbar-custom .navbar-nav .dropdown-menu > li > a {
 	color: #FFF;
-	font-size: 12px;
+	font-size: 18px;
 }
 
 .navbar-color,
