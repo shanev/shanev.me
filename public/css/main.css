@@ -14,7 +14,7 @@ body {
  * Navigation
 /* ---------------------------------------------- */
 
-/*.navbar {
+.navbar {
 	background: none;
 	border-radius: 0;
 	border: 0;
@@ -81,4 +81,4 @@ body {
 .navbar-color .navbar-toggle .icon-bar,
 .custom-collapse .navbar-toggle .icon-bar {
 	background: #222;
-}*/
+}
