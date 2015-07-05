@@ -1,5 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
 
+html, body {
+  height:100%;
+  margin:0;
+  padding:0
+}
+
 body {
   padding-top: 50px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('../img/01.jpg');
@@ -33,8 +39,27 @@ body {
 }
 
 .starter-template {
-  padding: 40px 15px;
+  /*padding: 40px 15px;*/
   text-align: center;
+}
+
+.container-fluid {
+  height:100%;
+  display:table;
+  width: 100%;
+  padding: 0;
+}
+
+.row-fluid {
+  height: 100%;
+  display:table-cell;
+  vertical-align: middle;
+}
+
+.centering {
+  text-align: center;
+  float:none;
+  margin:0 auto;
 }
 
 /* ---------------------------------------------- /*
