@@ -9,9 +9,8 @@ body {
 }
 
 .content {
-   /*padding: 40px 15px;*/
-   padding: 70px 15px;
-   text-align: center;
+  padding: 120px 0;
+  text-align: center;
 }
 
 /* ---------------------------------------------- /*
@@ -98,4 +97,16 @@ body {
 	   -moz-border-radius: 3px;
 		 -o-border-radius: 3px;
 			border-radius: 3px;
+}
+
+/* ---------------------------------------------- /*
+ * Media
+/* ---------------------------------------------- */
+
+@media (max-width: 767px) {
+
+  .content {
+    padding: 40px 0;
+    text-align: center;
+  }
 }
