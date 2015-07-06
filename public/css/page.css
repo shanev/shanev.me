@@ -1,18 +1,19 @@
 body {
   background-image: none;
   background-color: #fff;
-  color: #222;
+  color: #fff;
 }
 
 .navbar {
   background-color: #212121;
-  color: #fff;
+  /*color: #fff;*/
 }
 
 .content {
    /*padding: 40px 15px;*/
    padding: 70px 15px;
    text-align: center;
+   color: #222;
 }
 
 /* ---------------------------------------------- /*
