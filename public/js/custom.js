@@ -5,14 +5,14 @@
 var navbar = $('.navbar');
 var navHeight = navbar.height();
 
-$(window).scroll(function() {
-  if($(this).scrollTop() >= navHeight) {
-    navbar.addClass('navbar-color');
-  }
-  else {
-    navbar.removeClass('navbar-color');
-  }
-});
+// $(window).scroll(function() {
+//   if($(this).scrollTop() >= navHeight) {
+//     navbar.addClass('navbar-color');
+//   }
+//   else {
+//     navbar.removeClass('navbar-color');
+//   }
+// });
 
 if($(window).width() <= 767) {
   navbar.addClass('custom-collapse');

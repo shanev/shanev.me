@@ -1,0 +1,26 @@
+body {
+  background-image: none;
+  background-color: #fff;
+  color: #222;
+}
+
+.navbar {
+  background-color: #212121;
+}
+
+.content {
+   /*padding: 40px 15px;*/
+   padding: 70px 15px;
+   text-align: center;
+}
+
+/* ---------------------------------------------- /*
+ * Reset border-radius
+/* ---------------------------------------------- */
+
+.profile {
+	-webkit-border-radius: 3px;
+	   -moz-border-radius: 3px;
+		 -o-border-radius: 3px;
+			border-radius: 3px;
+}
