@@ -71,11 +71,13 @@ body {
 .navbar-color .navbar-nav .dropdown-menu > li > a,
 .custom-collapse .navbar-nav > li > a,
 .custom-collapse .navbar-nav .dropdown-menu > li > a {
-	color: #222;
+	/*color: #222;*/
+  color: #FFF;
 }
 
 .navbar-color .navbar-nav > li.active {
-	border-bottom: 3px solid #222;
+	/*border-bottom: 3px solid #222;*/
+  border-bottom: 3px solid #FFF;
 }
 
 .custom-collapse .navbar-nav {
