@@ -9,6 +9,10 @@ body {
   /*color: #fff;*/
 }
 
+.navbar-toggle {
+  color: #FFF;
+}
+
 .content {
    /*padding: 40px 15px;*/
    padding: 70px 15px;
