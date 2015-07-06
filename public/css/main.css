@@ -42,6 +42,7 @@ body {
 .navbar-custom .navbar-brand {
 	/*font: 700 18px/1.2 'Montserrat', serif, sans-serif;*/
 	color: #FFF;
+  font-size: 18px;
 }
 
 .navbar-custom .navbar-nav > li.active {
@@ -72,11 +73,9 @@ body {
 .custom-collapse .navbar-nav > li > a,
 .custom-collapse .navbar-nav .dropdown-menu > li > a {
 	color: #222;
-  /*color: #FFF;*/
 }
 
 .navbar-color .navbar-nav > li.active {
-	/*border-bottom: 3px solid #222;*/
   border-bottom: 3px solid #FFF;
 }
 
