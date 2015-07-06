@@ -1,0 +1,19 @@
+{
+  "name": "node-shanev",
+  "version": "0.0.0",
+  "authors": [
+    "Shane Vitarana <shanev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "google-map": "GoogleWebComponents/google-map#~1.0.3"
+  }
+}

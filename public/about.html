@@ -17,6 +17,9 @@
     <!-- Fonts from Font Awsome -->
     <link href="css/font-awesome.min.css" rel="stylesheet" >
 
+    <!-- Web Components -->
+    <link rel="import" href="components/google-map/google-map.html">
+
     <!-- Custom styles for this template -->
     <link href="css/main.css" rel="stylesheet">
     <link href="css/page.css" rel="stylesheet">
@@ -58,6 +61,11 @@
               <p>I'm currently in New York City.</p>
             </div>
         </div>
+        <div class="row">
+          <div class="col-md-12">
+            <google-map latitude="40.725325" longitude="-73.979407" zoom="15"></google-map>
+          </div>
+        </div>
       </div>
 
       <div class="container-fluid">
@@ -80,5 +88,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/custom.js"></script>
+    <script src="/components/webcomponentsjs/webcomponents-lite.min.js"></script>
   </body>
 </html>

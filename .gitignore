@@ -11,9 +11,13 @@ rdoc
 pkg
 *.log
 
+## NODE
 node_modules
 npm-debug.log
 tmp/
+
+## BOWER
+public/components/
 
 ## MONGODB
 journal
