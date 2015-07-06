@@ -71,8 +71,8 @@ body {
 .navbar-color .navbar-nav .dropdown-menu > li > a,
 .custom-collapse .navbar-nav > li > a,
 .custom-collapse .navbar-nav .dropdown-menu > li > a {
-	/*color: #222;*/
-  color: #FFF;
+	color: #222;
+  /*color: #FFF;*/
 }
 
 .navbar-color .navbar-nav > li.active {
