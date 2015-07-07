@@ -16,6 +16,10 @@ body {
   /*text-align: center;*/
 }
 
+.content a {
+  color: #FF0080;
+}
+
 .row {
   padding: 20px 0;
 }
@@ -39,7 +43,7 @@ body {
 .navbar-custom .nav li.active {
 	background: none;
 	outline: 0;
-	color: #EF4836;
+  color: #FF0080;
 }
 
 .navbar-custom .navbar-brand {
