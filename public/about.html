@@ -72,7 +72,12 @@
         </div>
         <div class="row">
           <div class="col-md-12">
-            <google-map latitude="40.725325" longitude="-73.979407" zoom="15"></google-map>
+            <google-map disable-default-ui zoom="14"></google-map>
+            <script>
+              var map = document.querySelector('google-map');
+              map.latitude = 40.7127;
+              map.longitude = -74.0059;
+            </script>
           </div>
         </div>
       </div>
