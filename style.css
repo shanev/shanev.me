@@ -1,3 +1,5 @@
+/* Default style overrides */
+
 body {
   width: 100wh;
   height: 90vh;
@@ -25,9 +27,23 @@ p {
   font-weight: normal;
 }
 
+ol, ul {
+  margin: 1em 0 3em 4em;
+}
+
+ol li, ul li {
+  font-size: 1rem;
+  margin-bottom: 0.25em;
+}
+
+li p {
+  padding-right: 3em;
+}
+
+/* Custom styles */
+
 .greeting {
   font-size: 8rem;
-  margin-bottom: 0.1em;
 }
 
 .greeting a {
@@ -36,6 +52,29 @@ p {
   font-weight: 600;
   letter-spacing: 0;
 }
+
+.icon-ios {
+  border-radius: 17.544%;
+  box-shadow: 0 0.1125em 0.1em rgba(0, 0, 0, 0.25);
+}
+
+.icon-web {
+  border-radius: 100%;
+  box-shadow: 0 0.1125em 0.1em rgba(0, 0, 0, 0.25);
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0;
+}
+
+.projects li img:hover {
+  transform: scale(1.1);
+}
+
+/* Keyframe animations */
 
 @-webkit-keyframes Gradient {
   0% {
