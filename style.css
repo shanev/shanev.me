@@ -5,7 +5,6 @@ body {
   width: 100wh;
   height: 90vh;
   color: #fff;
-  padding-bottom: 120px;
   background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
   background-size: 800% 800%;
   -webkit-animation: Gradient 30s ease infinite;
@@ -34,7 +33,7 @@ ol, ul {
 }
 
 ol li, ul li {
-  font-size: 1rem;
+  font-size: 1.1rem;
   margin-bottom: 0.25em;
 }
 
@@ -43,6 +42,10 @@ li p {
 }
 
 /* Custom styles */
+
+.container {
+  padding-bottom: 120px;  
+}
 
 .greeting {
   font-size: 8rem;
