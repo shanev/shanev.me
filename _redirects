@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://silly-hopper-cfaad6.netlify.com/* http://shanev.me/:splat 301!
