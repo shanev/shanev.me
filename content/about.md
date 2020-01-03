@@ -8,14 +8,13 @@ draft = false
   date = "2020"
   license = "cc-by-nd-4.0"
 +++
-
-Hello.
+<br />
 
 {{< hackcss-grid >}}
   {{< hackcss-cell class="-4of12" >}}
     {{< hackcss-card header="Shane Vitarana" >}}
       <img class="center" src="/shane.png" width="216" height="216" />
-      <p style="text-align: center;">he protec</p>
+      <p style="text-align: center;">hello</p>
       <br />
       {{< external rel="next" href="https://twitter.com/shanev" >}}
         {{< hackcss-button isghost="true" type="info" isblock="true" >}}
@@ -26,6 +25,14 @@ Hello.
       {{< /external >}}
     {{< /hackcss-card >}}
   {{< /hackcss-cell >}}
+
+  {{< hackcss-cell class="-1of12" >}}
+  {{< /hackcss-cell >}}
+
+  {{< hackcss-cell class="-7of12" >}}
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  {{< /hackcss-cell >}}
+
 {{< /hackcss-grid >}}
 
 <!--more--> 
