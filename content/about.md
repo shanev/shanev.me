@@ -14,7 +14,7 @@ draft = false
   <br />
     {{< hackcss-card header="Shane Vitarana" >}}
       <img class="center" src="/shane.png" width="216" height="216" />
-      <p style="text-align: center;">hello</p>
+      <p style="text-align: center;">hello 👋</p>
       <br />
       {{< external rel="next" href="https://twitter.com/shanev" >}}
         {{< hackcss-button isghost="true" type="info" isblock="true" >}}
