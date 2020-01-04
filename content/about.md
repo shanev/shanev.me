@@ -31,16 +31,16 @@ draft = false
 
   {{< hackcss-cell class="-7of12" >}}
     <p>
-    I'm a software engineer / entrepreneur on a mission to build more egalitarian products and services.
+    I'm a software engineer / entrepreneur on a mission to build products and services that are more decentralized and egalitarian.
     </p>
     <p>
-    I'm currently exploring how the decentralized and distributed nature of proof of stake networks can be used to achieve this goal, while being mindful of climate change.
+    Most recently, I led the engineering team that built {{< external href="https://beta.trustory.io/" text="TruStory" />}}, one of the first social apps built on a sovereign proof-of-stake blockchain.
     </p>
     <p>
-    Most recently, I led the engineering team that built {{< external href="https://beta.trustory.io/" text="TruStory" />}}, one of the first social apps built on a sovereign blockchain.
+    Previously I built the iOS app for {{< external href="https://apps.apple.com/au/app/ted/id376183339" text="TED" />}}. I also independently built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, a top selling music app with 10 million downloads. 
     </p>
     <p>
-    In a previous life, I built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the first App Store hits, with 10 million downloads. 
+    I have contributed to many open source projects, notably Ruby on Rails.
     </p>
     <p>
     You can find me online at {{< external href="https://twitter.com/shanev" text="Twitter" />}}, {{< external href="https://github.com/shanev" text="Github" />}}, and {{< external href="https://medium.com/@shanev" text="Medium" />}}.
