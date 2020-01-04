@@ -42,6 +42,9 @@ draft = false
     <p>
     In a previous life, I built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the first App Store hits, with 10 million downloads. 
     </p>
+    <p>
+    You can find me online at {{< external href="https://twitter.com/shanev" text="Twitter" />}}, {{< external href="https://github.com/shanev" text="Github" />}}, and {{< external href="https://medium.com/@shanev" text="Medium" />}}.
+    </p>
   {{< /hackcss-cell >}}
 
 {{< /hackcss-grid >}}
