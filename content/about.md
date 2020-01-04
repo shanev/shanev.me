@@ -34,7 +34,7 @@ draft = false
     I'm a software engineer / entrepreneur on a mission to build products and services that are more decentralized and egalitarian.
     </p>
     <p>
-    Most recently, I led the engineering team that built {{< external href="https://beta.trustory.io/" text="TruStory" />}}, a social app built on a proof-of-stake blockchain with {{< external href="https://cosmos.network/" text="Cosmos SDK" />}}.
+    Most recently, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, a social app built on a proof-of-stake blockchain with {{< external href="https://cosmos.network/" text="Cosmos SDK" />}}.
     </p>
     <p>
     Previously I built the iOS app for {{< external href="https://apps.apple.com/au/app/ted/id376183339" text="TED" />}}. I also independently built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, a top selling music app with 10 million downloads. 
