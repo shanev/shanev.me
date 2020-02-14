@@ -31,7 +31,7 @@ draft = false
 
   {{< hackcss-cell class="-7of12" >}}
     <p>
-    I'm a software engineer / entrepreneur on a mission to build products and services that are more decentralized and egalitarian.
+    I'm a software engineer / entrepreneur on a mission to build products and services that are more decentralized and equitable.
     </p>
     <p>
     Most recently, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, a social app built on a proof-of-stake blockchain with {{< external href="https://cosmos.network/" text="Cosmos SDK" />}}.
@@ -47,6 +47,27 @@ draft = false
     </p>
   {{< /hackcss-cell >}}
 
+  {{< hackcss-cell class="-12of12" >}}
+  {{< /hackcss-cell >}}
+
 {{< /hackcss-grid >}}
 
+<p></p>
+
 <!--more--> 
+
+I got my start in technology in the early 90's as an operator of a [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system), an early form of pre-Internet social network. I taught myself to code so I could make plugins for the BBS.
+
+I focused more on the hardware side in college, once designing a 16-bit microprocessor for a class project. I graduated with an M.S in Electrical Engineering with a focus on Electromagnetics. 
+
+After college, I moved back into software and worked at Motorola, building government encryption software. Later I joined Orbitz, where I helped scale backends for airline reservation systems. 
+
+In the early 2000's I got involved in the early development of Ruby on Rails, building open source libraries that were used by startups such as Github, Shopify, and Twitter. I launched my [first startup](http://shanesbrain.net/2007/09/01/myfitbuddy-com-launched.html) in 2007, a social network for fitness ethusiasts. It was one of the first sites to feature a live newsfeed.
+
+In early 2008 I quit my job at Groupon after [Ken Pelletier](https://www.chicagomediaproject.org/ken-pelletier), then CTO, showed me a demo of Google Maps on his iPhone. I went on to release [Drum Kit](http://www.drumkit.co), one of the most popular apps in the App Store built by an indie developer. It had over 10 million downloads, and was featured in Apple's iPod Touch ad campaign. 
+
+Later in 2008, I [built and open sourced](https://github.com/shanev/friendfeed-iphone) a fully native iOS app for (now defunct) [FriendFeed](https://en.wikipedia.org/wiki/FriendFeed). This caught the attention of Facebook, who attempted to recruit me for their native mobile team. Around this time I also rejected offers to be one of the first hires (if not the first) at Airbnb, Square, and Calm.
+
+Around 2015, I started getting disillusioned by the tech industry and considered studying to become a nutritionist. However I decided to apply my skills to non-profits instead. I joined TED, where I re-wrote their iOS app in Swift.
+
+In early 2017, [Marie Leaf](https://twitter.com/mariesleaf) introduced me to Ethereum. The ecosystem reminded me a lot my early BBS days. It rekindled my interest in tech, and I went deep into the rabbit-hole, learning about distributed systems and blockchains.
