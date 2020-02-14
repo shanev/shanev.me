@@ -62,11 +62,9 @@ I focused more on the hardware side in college, once designing a 16-bit micropro
 
 After college, I moved back into software and worked at Motorola, building government encryption software. Later I joined Orbitz, where I helped scale backends for airline reservation systems. 
 
-In the early 2000's I got involved in the early development of Ruby on Rails, building open source libraries that were used by startups such as Github, Shopify, and Twitter. I launched my [first startup](http://shanesbrain.net/2007/09/01/myfitbuddy-com-launched.html) in 2007, a social network for fitness ethusiasts. It was one of the first sites to feature a live newsfeed.
+In the early 2000's I got involved in the early development of Ruby on Rails, building open source libraries that were used by startups such as Github, Shopify, and Twitter. I launched my [first startup](http://shanesbrain.net/2007/09/01/myfitbuddy-com-launched.html) in 2007, a social network for fitness enthusiasts. It was one of the first sites to feature a live newsfeed.
 
 In early 2008 I quit my job at Groupon after [Ken Pelletier](https://www.chicagomediaproject.org/ken-pelletier), then CTO, showed me a demo of Google Maps on his iPhone. I went on to release [Drum Kit](http://www.drumkit.co), one of the most popular apps in the App Store built by an indie developer. It had over 10 million downloads, and was featured in Apple's iPod Touch ad campaign. 
-
-Later in 2008, I [built and open sourced](https://github.com/shanev/friendfeed-iphone) a fully native iOS app for (now defunct) [FriendFeed](https://en.wikipedia.org/wiki/FriendFeed). This caught the attention of Facebook, who attempted to recruit me for their native mobile team. Around this time I also rejected offers to be one of the first hires (if not the first) at Airbnb, Square, and Calm.
 
 Around 2015, I started getting disillusioned by the tech industry and considered studying to become a nutritionist. However I decided to apply my skills to non-profits instead. I joined TED, where I re-wrote their iOS app in Swift.
 
