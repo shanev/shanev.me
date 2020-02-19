@@ -66,6 +66,6 @@ In the early 2000's I got involved in the development of Ruby on Rails, building
 
 In early 2008 I quit my job at Groupon after [Ken Pelletier](https://www.chicagomediaproject.org/ken-pelletier), then CTO, showed me a demo of Google Maps on his iPhone. I went on to release [Drum Kit](http://www.drumkit.co), one of the most popular apps in the App Store built by an indie developer. It had over 10 million downloads, and was featured in Apple's iPod Touch ad campaign. 
 
-Around 2015, I started getting disillusioned by the tech industry and considered studying to become a nutritionist. However I decided to apply my skills to non-profits instead. I joined TED, where I re-wrote their iOS app in Swift.
+Around 2013, I started getting disillusioned by the tech industry and considered studying to become a nutritionist. However I decided to apply my skills to non-profits instead. I joined TED, where I re-wrote their iOS app in Swift.
 
-In early 2017, [Marie Leaf](https://twitter.com/mariesleaf) introduced me to Ethereum. The ecosystem reminded me a lot my early BBS days. It rekindled my interest in tech, and I went deep into the rabbit-hole, learning distributed systems and blockchains.
+In late 2015, [Marie Leaf](https://twitter.com/mariesleaf) introduced me to Ethereum. The ecosystem reminded me a lot my early BBS days. It rekindled my interest in tech, and I went deep into the rabbit-hole, learning distributed systems and blockchains.
