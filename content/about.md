@@ -54,7 +54,9 @@ draft = false
 
 <p></p>
 
-<!--more--> 
+<!--more-->
+
+## Pre-history
 
 I got my start in technology in the early 90's as an operator of a [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system), an early form of pre-Internet social network. I taught myself to code so I could make plugins for the BBS.
 
