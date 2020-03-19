@@ -58,7 +58,7 @@ draft = false
 
 ## Pre-history
 
-I got my start in technology in the early 90's as an operator of a {{< external href="https://en.wikipedia.org/wiki/Bulletin_board_system" text="BBS" />}}, an early form of pre-Internet social network. I taught myself to code so I could make plugins for the BBS.
+I got my start in technology in the early 90's as an operator of a {{< external href="https://en.wikipedia.org/wiki/Bulletin_board_system" text="BBS" />}}, an early form of pre-Internet social network. I taught myself to code to make plugins for it.
 
 I focused more on the hardware side in college, once designing a 16-bit microprocessor for a class project. I graduated with an M.S in Electrical Engineering with a focus on Electromagnetics. 
 
@@ -68,6 +68,6 @@ In the early 2000's I got involved in the development of Ruby on Rails, building
 
 In early 2008 I quit my job at Groupon after {{< external href="https://www.chicagomediaproject.org/ken-pelletier" text="Ken Pelletier" />}}, then CTO, showed me a demo of Google Maps on his iPhone. I went on to release {{< external href="http://www.drumkit.co" text="Drum Kit" />}}, one of the most popular apps in the App Store built by an indie developer. It had over 10 million downloads, and was featured in Apple's iPod Touch ad campaign. 
 
-Around 2013, I started getting disillusioned by the tech industry and considered studying to become a nutritionist. However I decided to apply my skills to non-profits instead. I joined TED, where I re-wrote their iOS app in Swift.
+Around 2013, I started getting disillusioned by the tech industry and considered studying to become a nutritionist. However I decided to apply my skills to non-profits instead. I joined {{< external href="https://www.ted.com/" text="TED" />}}, building new versions of their iPhone and iPad apps.
 
-In late 2015, {{< external href="https://twitter.com/mariesleaf" text="Marie Leaf" />}} introduced me to Ethereum. The ecosystem reminded me a lot my early BBS days. It rekindled my interest in tech, and I went deep into the rabbit-hole, learning distributed systems and blockchains.
+In late 2015, {{< external href="https://twitter.com/mariesleaf" text="Marie Leaf" />}} introduced me to Ethereum. The hacker ethos of the ecosystem reminded me a lot of the early days of the Internet. I believe blockchains will enable a new generation of digital services where value is captured by end users and operators over a few centralized providers.
