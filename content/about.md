@@ -31,16 +31,13 @@ draft = false
 
   {{< hackcss-cell class="-7of12" >}}
     <p>
-    I'm a software engineer / entrepreneur on a mission to build products and services that are more decentralized and equitable.
+    I'm a software engineer / entrepreneur on a mission to build products and services that are decentralized, and more equitable.
     </p>
     <p>
-    Most recently, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, a social app built on a proof-of-stake blockchain with {{< external href="https://cosmos.network/" text="Cosmos SDK" />}}.
+    Most recently, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, one of the first social apps built as a {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text="sovereign digital community" />}}. TruStory attempted to address misinformation in media through incentivized debate.
     </p>
     <p>
     Previously I built the iOS app for {{< external href="https://apps.apple.com/au/app/ted/id376183339" text="TED" />}}. I also independently built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, a top selling music app with 10 million downloads. 
-    </p>
-    <p>
-    I was an early contributer to many projects in the Ruby ecosystem, including Rails.
     </p>
     <p>
     You can find me online at {{< external href="https://twitter.com/shanev" text="Twitter" />}}, {{< external href="https://github.com/shanev" text="Github" />}}, and {{< external href="https://medium.com/@shanev" text="Medium" />}}.
