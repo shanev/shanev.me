@@ -31,7 +31,7 @@ draft = false
 
   {{< hackcss-cell class="-7of12" >}}
     <p>
-    I'm a software engineer / entrepreneur on a mission to use software for social and environmental impact.
+    I'm a software engineer / founder on a mission to use software for social and environmental impact.
     </p>
     <p>
     Recently, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, building a {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text="decentralized app" />}} that attempted to address misinformation in media through incentivized debate.
