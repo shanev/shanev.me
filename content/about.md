@@ -31,13 +31,13 @@ draft = false
 
   {{< hackcss-cell class="-7of12" >}}
     <p>
-    I'm a software engineer / entrepreneur on a mission to build products and services that are decentralized, and more equitable.
+    I'm a software engineer / entrepreneur on a mission to use software for social and environmental impact.
     </p>
     <p>
-    Most recently, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, one of the first social apps built as a {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text="sovereign digital community" />}}. TruStory attempted to address misinformation in media through incentivized debate.
+    Recently, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, a {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text="sovereign digital community" />}} that attempted to address misinformation in media through incentivized debate.
     </p>
     <p>
-    Previously I built the iOS app for {{< external href="https://apps.apple.com/au/app/ted/id376183339" text="TED" />}}. I also independently built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, a top selling music app with 10 million downloads. 
+    Previously, I helped build TED for iOS. It was one of the highest rated apps in education, and was featured in Apple keynotes. I also independently built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, a music app that got over 10M downloads, and was featured on Apple billboards and TV ads. 
     </p>
     <p>
     You can find me online at {{< external href="https://twitter.com/shanev" text="Twitter" />}}, {{< external href="https://github.com/shanev" text="Github" />}}, and {{< external href="https://medium.com/@shanev" text="Medium" />}}.
