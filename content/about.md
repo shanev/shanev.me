@@ -58,7 +58,7 @@ draft = false
 
 ## Pre-history
 
-I got my start in technology in the early 90's as an operator of a {{< external href="https://en.wikipedia.org/wiki/Bulletin_board_system" text="BBS" />}}, an early form of pre-Internet social network. I taught myself to code to make plugins for it.
+I got my start in technology in the early 90's as an operator of a {{< external href="https://en.wikipedia.org/wiki/Bulletin_board_system" text="BBS" />}}, an early form of pre-Internet social network built around trading software and games. I taught myself to code to make plugins for it. My BBS career ended when a German telecom sent a cease and desist letter, causing my parents to confiscate my computers. I had hacked into their {{< external href="https://en.wikipedia.org/wiki/Business_telephone_system" text="systems" />}} to make free phone calls. 
 
 I focused more on the hardware side in college, once designing a 16-bit microprocessor for a class project. I graduated with an M.S in Electrical Engineering with a focus on Electromagnetics. 
 
