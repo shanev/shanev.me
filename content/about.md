@@ -64,7 +64,7 @@ I focused more on the hardware side in college, once designing a 16-bit micropro
 
 After college, I moved back into software and worked at Motorola, building government encryption software. Later I joined Orbitz, where I helped scale backends for airline reservation systems. 
 
-In the early 2000's I got involved in the development of Ruby on Rails, building open source libraries that were used by many web 2.0 startups of the time. I launched my {{< external href="http://shanesbrain.net/2007/09/01/myfitbuddy-com-launched.html" text="first startup" />}} in 2007, a social network for fitness enthusiasts. It was one of the first sites to feature a live newsfeed.
+In the early 2000's I got involved in the development of Ruby on Rails, building open source libraries that were used by many web 2.0 startups of the time. I launched {{< external href="http://shanesbrain.net/2007/09/01/myfitbuddy-com-launched.html" text="a social network for fitness enthusiasts" />}} in 2007. It was one of the first sites to feature a live newsfeed.
 
 In early 2008 I quit my job at Groupon after {{< external href="https://www.chicagomediaproject.org/ken-pelletier" text="Ken Pelletier" />}}, then CTO, showed me a demo of Google Maps on his iPhone. I went on to release {{< external href="http://www.drumkit.co" text="Drum Kit" />}}, one of the most popular apps in the App Store built by an indie developer. It had over 10 million downloads, and was featured in Apple's iPod Touch ad campaign. 
 
