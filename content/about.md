@@ -40,7 +40,7 @@ draft = false
     Previously, I helped build TED for iOS. It was one of the top rated apps in education, and was featured in Apple keynotes. 
     </p>
     <p>
-    I also independently built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the top 10 music apps in the App Store for nearly 5 years. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads.
+    I also built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the top 10 music apps in the App Store for nearly 5 years. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads.
     </p>
     <p>
     You can find me online at {{< external href="https://twitter.com/shanev" text="Twitter" />}}, {{< external href="https://github.com/shanev" text="Github" />}}, and {{< external href="https://medium.com/@shanev" text="Medium" />}}.
