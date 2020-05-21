@@ -68,6 +68,8 @@ In the early 2000's I got involved in the development of Ruby on Rails, building
 
 In early 2008 I quit my job at Groupon after {{< external href="https://www.chicagomediaproject.org/ken-pelletier" text="Ken Pelletier" />}}, then CTO, showed me a demo of Google Maps on his iPhone. I went on to release {{< external href="http://www.drumkit.co" text="Drum Kit" />}}, one of the most popular apps in the App Store built by an indie developer. It had over 10 million downloads, and was featured in Apple's iPod Touch ad campaign. 
 
-Around 2013, I started getting disillusioned by the tech industry and considered studying to become a nutritionist. However I decided to apply my skills to non-profits instead. I joined {{< external href="https://www.ted.com/" text="TED" />}}, building new versions of their iPhone and iPad apps.
+Around 2013, I started getting disillusioned by the tech industry and considered studying to become a nutritionist. However I decided to apply my skills to non-profits instead. I joined {{< external href="https://www.ted.com/" text="TED" />}}, building new versions of their iPhone and iPad apps. I also heard about Bitcoin around this time but didn't think too much of it.
 
-In late 2015, {{< external href="https://twitter.com/mariesleaf" text="Marie Leaf" />}} introduced me to Ethereum. The hacker ethos of the ecosystem reminded me a lot of the early days of the Internet. I believe blockchains will enable a new generation of digital services where value is captured by end users and operators over a few centralized providers.
+In 2016, {{< external href="https://twitter.com/mariesleaf" text="a friend" />}} introduced me to Ethereum and crypto in general. The hacker ethos of the ecosystem reminded me a lot of the BBS-era and early days of the Internet. As I explored the space, I saw the potential it has to re-decentralize the Internet, and build new services on a foundation of sound money.
+
+To be continued...
