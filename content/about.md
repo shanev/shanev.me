@@ -13,7 +13,7 @@ draft = false
   {{< hackcss-cell class="-4of12" >}}
   <br />
     {{< hackcss-card header="Shane Vitarana" >}}
-      <img class="center" src="/shane.png" width="216" height="216" />
+      <img class="center" src="/shane1.jpg" width="216" height="216" />
       <p style="text-align: center;">hello 👋</p>
       <br />
       {{< external rel="next" href="https://twitter.com/shanev" >}}
@@ -31,13 +31,10 @@ draft = false
 
   {{< hackcss-cell class="-7of12" >}}
     <p>
-    I'm a software engineer / founder on a mission to use software for social and environmental impact.
+    Hello! I'm currently building a {{< external href="https://github.com/public-awesome/stakebird" text="content curation DAO" />}} at {{< external href="https://www.publicawesome.com/" text="Public Awesome" />}}.
     </p>
     <p>
-    Recently, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, building a {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text="decentralized app" />}} that attempted to address misinformation in media through incentivized debate.
-    </p>
-    <p>
-    Previously, I helped build TED for iOS. It was one of the top rated apps in education, and was featured in Apple keynotes. 
+    Previously, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, building a {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text="decentralized app" />}} to address misinformation in media through incentivized debate.
     </p>
     <p>
     I also built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the top 10 music apps in the App Store for nearly 5 years. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads.
