@@ -55,18 +55,24 @@ draft = false
 
 ## Pre-history
 
-I got my start in technology in the early 90's as an operator of a {{< external href="https://en.wikipedia.org/wiki/Bulletin_board_system" text="BBS" />}}, an early form of pre-Internet social network built around trading software and games. I taught myself to code to make plugins for it. My BBS career ended when a German telecom sent a cease and desist letter, causing my parents to confiscate my computers. I had hacked into their {{< external href="https://en.wikipedia.org/wiki/Business_telephone_system" text="systems" />}} to make free phone calls. 
+### BBS/Hacker Era
+I got my start in technology in the early 90's running Broon's Bane {{< external href="https://en.wikipedia.org/wiki/Bulletin_board_system" text="BBS" />}}, a software piracy network that predated BitTorrent. I taught myself to code in {{< external href="https://en.wikipedia.org/wiki/PCBoard" text="PPL" />}} (now defunct) to make a leaderboard for seeder/leecher (upload/download) ratios. My BBS career ended when a German telecom sent a cease and desist letter to my parents, causing them to confiscate my computers and modems. I had hacked into their {{< external href="https://en.wikipedia.org/wiki/Business_telephone_system" text="PBX" />}}, allowing me to make free long-distance calls to other BBSes. The only remains I can find of my BBS is this fan created {{< external href="https://demozoo.org/productions/184400/" text="ASCII" />}} {{< external href="https://defacto2.net/f/ae2a996" text="art" />}}.
 
-I focused more on the hardware side in college, once designing a 16-bit microprocessor for a class project. I graduated with an M.S in Electrical Engineering with a focus on Electromagnetics. 
+### School
+Since I already did a lot of programming in my spare time, I wanted to focus more on theory and hardware in college. I got a dual degree in Computer Science and Computer Engineering from Rutgers University, and an M.S in Electrical Engineering from Illinois Institute of Technology. I designed a 16-bit microprocessor for a class project, and wrote a paper on {{< external href="https://www.scribd.com/document/365777936/Quantum-Computing-with-Quantum-Dots" text="Quantum Computing" />}} for my graduate thesis.
 
-After college, I moved back into software and worked at Motorola, building government encryption software. Later I joined Orbitz, where I helped scale backends for airline reservation systems. 
+### Enterprise Era (skip)
+After college, I moved back into software and worked at Motorola, building government encryption software. Later I joined Orbitz, where I helped scale backends for airline reservation systems. I learned a lot about building software at scale, but longed for working with small fast-paced teams with less bureaucracy.
 
+### Web 2.0 era
 In the early 2000's I got involved in the development of Ruby on Rails, building open source libraries that were used by many web 2.0 startups of the time. I launched {{< external href="http://shanesbrain.net/2007/09/01/myfitbuddy-com-launched.html" text="a social network for fitness enthusiasts" />}} in 2007. It was one of the first sites to feature a live newsfeed.
 
+### iOS era
 In early 2008, {{< external href="https://www.chicagomediaproject.org/ken-pelletier" text="Groupon's CTO" />}} showed me a demo of Google Maps on his iPhone. At that moment I knew mobile was <strong><i>the future™</i></strong>. I quit my job the next day and went on to build {{< external href="http://www.drumkit.co" text="Drum Kit" />}}. It ended up getting 10M+ downloads, and was featured in Apple's iPod Touch ad campaign. It remained one of the top 10 music apps for nearly 5 years.
 
 Around 2013, I started getting disillusioned with the tech industry due to the increased centralization of power, and considered studying to become a nutritionist. However I decided to apply my skills to non-profits, and joined {{< external href="https://www.ted.com/" text="TED" />}} where I built new versions of their iPhone and iPad apps. I also heard about Bitcoin around this time but didn't think too much of it.
 
+### Crypto/DeFi era
 In 2016, {{< external href="https://twitter.com/mariesleaf" text="a friend" />}} introduced me to Ethereum and crypto in general. The hacker ethos of the ecosystem reminded me a lot of the BBS-era and early days of the Internet. As I explored the space, I saw the potential it has to re-decentralize the Internet, and build new services on a foundation of sound money.
 
 To be continued...
