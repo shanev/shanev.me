@@ -31,16 +31,17 @@ draft = false
 
   {{< hackcss-cell class="-7of12" >}}
     <p>
-    Hello! I'm currently building a {{< external href="https://github.com/public-awesome/stakebird" text="content curation DAO" />}} at {{< external href="https://www.publicawesome.com/" text="Public Awesome" />}}.
+    Hello! I'm currently building {{< external href="http://www.stargaze.fi" text="Stargaze" />}}, a decentralized, user-owned and operated crypto network.
     </p>
     <p>
-    Previously, I led the engineering team at {{< external href="https://beta.trustory.io/" text="TruStory" />}}, building a {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text="decentralized app" />}} to address misinformation in media through incentivized debate.
+    Previously, I led the engineering team at a crypto startup, where we built
+    one of the first {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text=" decentralized social apps" />}} on a sovereign {{< external href="https://cosmos.network" text=" Cosmos" />}} blockchain.
     </p>
     <p>
-    I also built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the top 10 music apps in the App Store for nearly 5 years. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads.
+    In another life, I built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the top 10 music apps in the App Store for nearly 5 years. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads.
     </p>
     <p>
-    You can find me online at {{< external href="https://twitter.com/shanev" text="Twitter" />}}, {{< external href="https://github.com/shanev" text="Github" />}}, and {{< external href="https://medium.com/@shanev" text="Medium" />}}.
+    You can find me on {{< external href="https://twitter.com/shanev" text="Twitter" />}}, and my code on {{< external href="https://github.com/shanev" text="Github" />}}.
     </p>
   {{< /hackcss-cell >}}
 
