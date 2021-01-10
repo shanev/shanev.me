@@ -41,6 +41,9 @@ draft = false
     In another life, I built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the top 10 music apps in the App Store for nearly 5 years. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads.
     </p>
     <p>
+    I've been contributing to free and open-source software for over two decades.
+    </p>
+    <p>
     You can find me on {{< external href="https://twitter.com/shanev" text="Twitter" />}}, and my code on {{< external href="https://github.com/shanev" text="Github" />}}.
     </p>
   {{< /hackcss-cell >}}
