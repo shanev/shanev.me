@@ -44,7 +44,7 @@ draft = false
     I've been contributing to free and open-source software for over two decades.
     </p>
     <p>
-    You can find me on {{< external href="https://twitter.com/shanev" text="Twitter" />}}, and my code on {{< external href="https://github.com/shanev" text="Github" />}}.
+    You can find me on {{< external href="https://twitter.com/shan3v" text="Twitter" />}}, and my code on {{< external href="https://github.com/shanev" text="Github" />}}.
     </p>
   {{< /hackcss-cell >}}
 
