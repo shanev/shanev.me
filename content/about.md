@@ -31,17 +31,17 @@ draft = false
 
   {{< hackcss-cell class="-7of12" >}}
     <p>
-    Hello! I'm currently building {{< external href="http://www.stargaze.fi" text="Stargaze" />}}, a next-generation decentralized social protocol.
+    Hello! I'm currently building {{< external href="http://www.stargaze.zone" text="Stargaze" />}}, a next-generation decentralized social protocol.
     </p>
     <p>
     Previously, I led the engineering team at a crypto startup, where we built
-    one of the first {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text=" decentralized social apps" />}} on a sovereign {{< external href="https://cosmos.network" text=" Cosmos" />}} blockchain.
+    one of the first {{< external href="https://blog.cosmos.network/building-a-decentralized-app-with-cosmos-sdk-3c535cdc6a6a" text=" decentralized social apps" />}} as a {{< external href="https://cosmos.network" text=" Cosmos" />}} blockchain.
     </p>
     <p>
-    In another life, I built {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}, one of the top 10 music apps in the App Store for nearly 5 years. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads.
+    In another life, I built several top apps in the App Store, including {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads worldwide.
     </p>
     <p>
-    I've been contributing to free and open-source software for over two decades.
+    I've been contributing to free and open-source software for over two decades. You've probably used something I've built.
     </p>
     <p>
     You can find me on {{< external href="https://twitter.com/shan3v" text="Twitter" />}}, and my code on {{< external href="https://github.com/shan3v" text="Github" />}}.
