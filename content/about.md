@@ -33,13 +33,16 @@ draft = false
 {{< hackcss-cell class="-7of12" >}}
 
 <p>
-Hello! I'm currently building {{< external href="http://www.stargaze.zone" text="Stargaze" />}}, a decentralized and interoperable layer one blockchain for NFTs.
+Hello! I'm currently building {{< external href="http://www.stargaze.zone" text="Stargaze" />}}, an app chain for NFTs.
 </p>
 <p>
-In another life, I built several top apps in the App Store, including {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards " />}} and TV ads worldwide. I was also part of a small team that built the original TED Talks app, which consistently had a 5 star rating in the App Store.
+In another life, I built several top apps in the App Store, including {{< external href="https://www.drumkit.co/" text="Drum Kit" />}}. It got over 10M downloads, and was featured on {{< external href="https://www.flickr.com/photos/michael_speedracer/4311175819/" text="Apple billboards" />}} and TV ads worldwide. I was also part of a small team that built the original TED Talks app, which consistently had a 5 star rating in the App Store.
 </p>
 <p>
-In the early 2000's I contributed to and built many libraries for Ruby on Rails. If you have used Airbnb, Github, Twitter, or Shopify, you've run my code. I was also one of the earliest hires at Groupon (The Point), one of the fastest growing startups of all time.
+In the early 2000's I contributed to and built many libraries for Ruby on Rails. If you have used Airbnb, Github, Twitter, or Shopify, you've run my code. I was also one of the first hires at Groupon, one of the fastest growing startups of all time.
+</p>
+<p>
+I taught myself to code as a teenager to write software for {{< external href="https://defacto2.net/g/broons-bane-bbs?perpage=24&page=1" text="Broon's Bane" />}}, a BBS I ran.
 </p>
 <p>
 You can find me on {{< external href="https://twitter.com/shan3v" text="Twitter" />}}, and my code on {{< external href="https://github.com/shan3v" text="Github" />}}.
